@@ -1,0 +1,97 @@
+.main{
+    background: linear-gradient(to top,rgba(0,0,0,0.75)25%,rgba(0,0,0,0.75)25%),url(2.jpg); 
+    width: 100%;
+    background-position: center;
+    height: 1000px;
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.about{
+    position: relative;
+    color: rgb(0, 0, 0);
+   
+    
+}
+
+.text1{
+    margin-left: 20px;
+
+    color: #49c8df;
+    border: 2.5px solid #49c8df;
+    
+    width: 250px;
+    text-align: center;
+
+    box-shadow: 10px 10px 10px;
+
+
+}
+.text1 p{
+    color: aliceblue;
+    font-size: 30px;
+}
+
+
+
+
+.logo{
+    margin-top: 100px;
+}
+.text{
+
+    background-color: black;
+    color: #49c8df;
+
+    position: absolute;
+    /* top: 20px; */
+    /* left: 20px; */
+    width: 100%;
+
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    
+}
+.client1{
+    position: absolute;
+    
+    top: 80px;
+    left: 40px;
+    
+    margin-top: 22px;
+    margin-left: 12px;
+
+    height: 180px;
+    width: 180px;
+}
+.client2{
+    position: absolute;
+    
+    height: 208px;
+    width: 208px;
+    
+    margin-left: 560px;
+    margin-top: 100px;
+    
+}
+.client3{
+    position: absolute;
+    height: 180px;
+    width: 209px;
+    margin-top: 322px;
+    margin-left: 820px;
+
+}
+.client4{
+    position: absolute;
+    
+    height: 150px;
+    width: 300px;
+
+    margin-left: 240px;
+    margin-top: 332px;
+}
